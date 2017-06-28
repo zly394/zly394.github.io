@@ -1,3 +1,8 @@
+---
+title: UI之可折叠的TextView
+layout: post
+---
+
 ### 先上效果
 ![](https://ww3.sinaimg.cn/large/006tNbRwgy1fdmk51rek3g30900g0ndq.gif)
 
